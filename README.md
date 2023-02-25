@@ -1,4 +1,12 @@
-# create-svelte
+# ContentBay
+
+A Tauri application built with SvelteKit, TypeScript and TailwindCSS.
+
+A library for images, videos, audio and text.
+
+I'll update this as I go, for now there's not much to say.
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
