@@ -1,15 +1,24 @@
 <script>
-	import Greet from '../lib/Greet.svelte';
+	
 </script>
 
-<h1 class="text-3xl font-bold underline">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>ContentBay</title>
+</head>
+<body>
+	
 
-<h1>Welcome to SvelteKit</h1>
-<Greet />
 
-<style lang="postcss">
+	<h1 class="font-semibold">Welcome to ContentBay</h1>
+</body>
+<footer>
+	<a href="/about">About</a>
+	<a href="/myflix">MyFlix</a>
+</footer>
+
+<!-- <style lang="postcss">
 	:global(html) {
 		background-color: #3f3f3f;
 	}
-</style>
+</style> -->
