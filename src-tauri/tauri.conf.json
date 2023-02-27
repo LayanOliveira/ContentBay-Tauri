@@ -20,6 +20,11 @@
         "open": true,
         "save": true
       },
+      "fs": {
+        "readFile": true,
+        "readDir": true,
+        "exists": true
+      },
       "all": false
     },
     "bundle": {
